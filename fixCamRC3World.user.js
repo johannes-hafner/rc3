@@ -2,6 +2,7 @@
 // @run-at document-start
 // @match *://*.at.rc3.world/*
 // @match *://jitsi.rc3.world/*
+// @match *://*.infra.run/html5client
 // ==/UserScript==
 
 function patch() {
@@ -11,7 +12,7 @@ function patch() {
         return oldGetUserMedia(c).catch(e => {
             if (e.name=="NotReadableError") {
                 console.log("Patching getUserMedia with just audio");
-                c = {audio : c.audio, video: false};
+                c = {audio : true, video: false};
                 return navigator.mediaDevices.getUserMedia(c);
             }
             throw e;
