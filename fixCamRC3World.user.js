@@ -1,6 +1,7 @@
 // ==UserScript==
 // @run-at document-start
 // @match *://*.at.rc3.world/*
+// @match *://jitsi.rc3.world/*
 // ==/UserScript==
 
 function patch() {
