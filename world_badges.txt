@@ -3,6 +3,7 @@
 1JGFgsGEWAfszpu21r4I6eLarw8WdrRQbmY8jpJMnCcJa98g6Y - By the -other- campfire...
 1PAMq1YEqpfWfQEJycVEPjJuxyOLAslkHhkwjUTVkULbcP689y - blinKNlights 1
 2LNHNzwwDf04UVlHG21pOdvTGSVsfJuO2jGzz7kyJwXvIIj0lz - wiDragon
+2RZK0RXWfIeXK3dXWcOtcsX3h5KanZtfU62MCR1shiarCxw4sT - Lose! At Tic-Tac-Toe
 3gRKcGp42Xdh2PQprMi3RjMDcMM6pq6IeWIE0wwHz1U08VGs4h - [SOURCE PROTECTED]
 5NsMssjMmHq8dOwB6zlLD11lOpJwnjF4YDPCVukQooa8kC3qLq - The desert of the real
 5uElx65UWsGMOkcDcK3xiE8oWkV3cHCgpjRhOS4E1V93aKfA1j - Pommestüte
@@ -12,18 +13,22 @@
 8xFcA4KS72dzVeMs7GVsABiXcA3pc6oMQkrcbHDcmPRrCAwYbU - Visited CERT!
 98tDbrvbfI5LwzoA9aU1hatXcqDZs1HxsYUpgH2tGxi1cJOOTk - Go to horny jail
 9YUc9cF8GfmfeKUQCKWgmwcrK4H5tYHtJjywWhqiWTRcyEsaSj - Found the Party Klo
+9YUc9cF8GfmfeKUQCKWgmwcrK4H5tYHtJjywWhqiWTRcyEsaSj - Found the Party Klo
 BcDK66p7j7OJvCz4MYNcLmj0NlIv6l74Elbtmjcg1qyE7e5grv - Printer Hero - print all you can!
 Be7cRV320z2bk6E4HnYmpdFu2sRmvPxIBnxtVJBpV7uGVkUhsW - physical entry
 CB9aP9ixJ4zHFWXLkEfM9KIgGLZVil8tkCqworC5lkObEt35oK - wiDuck
+DI0VzAO7bmVwpxOki9xcfnJlhz7cqjT9R3hLnOfWiksMkcSJOv - wiUnicorn
 DI0VzAO7bmVwpxOki9xcfnJlhz7cqjT9R3hLnOfWiksMkcSJOv - wiUnicorn
 DsPrCCBvccU3w3DE4nv53kdQEbr2Ohjzhk4yhJpM0vE2ReJlsN - Who spilled the Mate?
 EbvvqjTCLbAGfRJwiTCml2vjuEHFNxhgFtHsfrE1Wmpsb1USnb - Maglab-Badge
 ErcMWxuNiohP8Qlh7WRBqPQxOilKQqwu7m4gttlL4scY9QYpSl - schokobadge
 ExCj8J5mZzJiUyYDPdwOEgIi0OZKO4FpGjdkXUBGDlowhi43Hj - 420
 F35oXMWuOY8otOiq82gI87BbWrn0hR1BLYtX1yvJVT0lbpR76J - solved the µc3 labyrinth
+F35oXMWuOY8otOiq82gI87BbWrn0hR1BLYtX1yvJVT0lbpR76J - solved the µc3 labyrinth
 FERuBXApIX2i4avqv4hXCdURBf53AkSVhRPUfsCBz3NT9m26m8 - bunkerVisit
 GYnY8qFvRHGsBC9FEeqJve9tqrWxztGSs1PCEKPL5sKoTpwyDt - Printer Hero - print all you can!
 HarAbjNC07NUFzwIa5ApEHzg3EY2yvkcr9KucmacfLGhDjUJov - Rust Visitor
+Hsgc45JC9lRpIRvy2XSIv2YW1Lw2W96VcaRMIapjpIUgoXlqMZ - Polarkuh-Spotter-Dungeon-Solved
 IDrdquwE5Gk13NIYznNQ6zAocojMKNh0WFYasrR3HCUQsbkr4Z - A nice warm campfire...
 J8xsYpoSWYD9BL9rZkrNLQ3ef90zBP7acfDR8m1RXnwiKcOq38 - HSBE
 JqP5MboPKVpLESvTXzxXN2ED7mZEZbObX5nXwpjEsFYm2knoWa - flipdot Visitor
@@ -33,6 +38,7 @@ LpmoeSqQ0iTsHIhyLEGmR8z2Hp7ZfP1vxyFqsWdAKbF3F2Icsp - xil.se
 MP9tJEaPjNcssILAxg75e6aHL0vpK73gtkanvjRC117Rxccq0e - Found the Warlog stash!
 MQoZTG3FUUBtBMSZAVlUyssIvDDFEnok5vruEia03hx3LRqFr0 - Mate drinker
 MVsLU3j0rneejrWgzgV09aBrFrUWOh3oZF1huI8SYjSFWceE29 - Has got Anything to Say
+OQ7o782wOsuYoKNGWVdpqcuAsXy95FqA5gnWaCQRiYV7MUZv0q - Pika Pika!
 OSDkNxUVYFoYuXmISSd4V5QB5HYaV5HCPGrnAQcBg2ZB7ceeTR - bstly maze
 OwGhtNWHnXY9l0UulfQOEjGoa7BeWLCccJmjndv9KZgatPT7O6 - Drink a slushie, tell others about Purple Popcorn!
 QBI64wOEeE57CUthLYRu7CG94arcBzUyZYygLQxP5HQ3ngM9an - The Final Frontier
@@ -49,6 +55,7 @@ TZL8ZLej2DWf9QpU1Pu2ODN2JVnx8PHWrUWHYsAAeqIm4KwxcQ - Hutmacher
 TiYFhsVsjEOUpi3D05u8tOyIartQe8DBz2GLzKbG7tYo75sxPa - Visited Rupert!
 UgSOvApbGdDfGqixZfOCfpXr7vd3ixZSxOmpVa5kpuHRjE0ckU - /dev/tal
 Ukw55MlVMyYqeKbZ48V14V6nVHeeEfrXM4eoXDVRDBJGu0jz7Z - Listened to The Schabernacks
+Ukw55MlVMyYqeKbZ48V14V6nVHeeEfrXM4eoXDVRDBJGu0jz7Z - Listened to The Schabernacks
 VB0jmkpDKkA0Lqnd5q5aDnKdU2JjYV4duIatISyOabZ67WHVsc - Visited HackThisSite Assembly
 VekQ3NyP6EhugBobEbQURm8cT18g93nps7S97rDpUb7Egu32Hz - Be an Icon!
 VoRC2fyhXyGfnxtj17G6i0gDEsviutTeNiQruGchR1NZWuUPUA - Bits und Bäume
@@ -56,6 +63,7 @@ W4RGpRmYtFjflyMkoWQi12y8YDWNVl850Le8Ob6BOjwOcHp1Sq - Found your place in Guantan
 WHRDWriMSI5tu6mKO0xkoDUwWzVgawBKzT6MHckrYd1lgiTFxR - Hat eine persönliche Glücksmelodie
 X8wKNTgkM4b1MFijyym0PduYTocfiCDDeEnQovNZGzL5IGq8G3 - /dev/tal Serverraum
 YBPvcIaI8hFpYj8ZW3w4CCwhmpAx9tG5Vsw7nF4nMIzeAPvOO6 - Hygienic Badge - have a bath here!
+YMOXJsKY2JN2JBO3QlbhEVMk20dsIuwrJv1BEjzIlkfAH0J0OU - found the hidden party
 YWUt43HfsAzJV021gH8Y238dm2KxElY0IC3y49lwM7TdijlsF6 - Swabian Embassy
 Yg58edBHkuzLa8qaVrL2w236BSOA2oXLKbBDw6lUfL6XSw7kKC - You reached the [CLASSIFIED]7
 aM7oFPRkBecOHBTSBep3f3esUCCzFB1hn9nhAh6nb5gk8sXKjc - MultiPlayer Snake Player
@@ -65,6 +73,7 @@ dGUdypnZ1Grm5pAyDjWyyU2mapFkTdHwK3RbzoRh8p88JaqMK9 - GOTO 10
 eFCs6jvdU5KdggkpF0FOGDT4cXwul4Ii8L2o9MZpimfLCearRS - Infinity Room
 eTG6c93uectHRbxHDALRUMAX26vt7RJw1UkwBBQd8y5GV3WSaR - First ever map activated Badge
 fJi8YmsCov78LcvC35cqy1gvA8euU8qOSH1ZgcwpKKj4QjYtlF - Enteckt: FramaGarten
+hZn0bvEZE6odnhbFyYlrjlCljhjsEewFAX5DCc1icc2khgsMOQ - c-base darkroom explorer
 i7MCD9BUTGmpkAYGU0L5M1o94GKFlhoMsEm5mpDnx1U8LsxlCH - Truly Underground
 iMf3y9UgoPXnUgOFvFXnADHybsXcSIOCJfTdeNj0Oz5oNQTFmb - I want to be free
 iaxGgoaIJCDnPcKoCFj1m6EPjU45zgEmekGWmw7XgGHuU156tg - Found public transport
@@ -74,6 +83,7 @@ jGjiNNTkojwYML5K7psdFOEsdEiWkGpPDNV4ZvHQdCuBCJO5ZR - Anarchist Village
 jhJiaQ72ILDOzbMbJ4IrFhlYi1OrM35usebFtYVFHEW955nANW - C-Graph
 jnhDRXOY9ocIveJ4uje3XRx3h2DqKI78vtrji0kIkUxK03t6wY - Helferlein
 kXobVij50d4raR6vU3PgIktltZIQE0PtoCggu8mMnrfd06ZD2K - UN-HCK-BAR
+kz6V15h8lCEEwROM74aEnybFViStmcPHJ8NxinnhGgMu9cfSuX - Draw! at Tic-Tac-Toe
 lEM5zpEASflifkm1E59SVLV9nShOXLIDDSlEwkkx3pcqpIueJ6 - Island Isolation
 mV1S4EgwJSevwsCOByyVHCI2hwL1eZt8BURdlfn0XRCuc8pCTl - Hacksaar-BBB-Schneemann
 mY9vgo5Kcm8kT6nJhVtTpgo0O99GniI34pLtX7MyLGgM5Bl5V7 - Chaospott
@@ -95,3 +105,4 @@ vryBMmSStV8RHx9UFRol6vgfVkLFykw5l6WafKWNInUrjvuWSf - Heaven Visitor
 xXtD06fejSoQjVrUOwakvBIvpMWJ2pwEJgO1fiETIXZaefnQEP - What could possibly go wrong?
 zJwgckEKSqfzgrAGrpkQ7qkIP833vqOIWfnlDUTV6m6k8F4fxQ - Clean Hands!
 zo8UiAFnJWWJbolzrzjzopH4jbMcDYOI1z73Z5vxzGrXopsrXu - dishbadge
+
